@@ -1,5 +1,5 @@
 # Node.js_GooglebookAPI
-A simple and basic Web API using node.js that uses axios to retrieve, push to the array andsave it into an excel sheet 
+A simple and basic Web API using node.js that uses axios to retrieve, push to the array and save it into an excel sheet 
 ## Libraries
 * Axios
 * csv-parser
